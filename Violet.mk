@@ -1,6 +1,12 @@
 ==================
 Device Changelogs
 ==================
+Date: 17-03-2023
+------------------
+- Added miui camera.
+- hotfix build.
+
+
 
 ---------------------
 Date: March 06,2023
