@@ -1,6 +1,16 @@
 ==================
 Device Changelogs
 ==================
+Date: 19-04-2023
+------------------
+- Drop miui camera
+- Tune vibration intensity
+- Update some blobs
+- Some underhood changes
+
+
+
+------------------
 Date: 17-03-2023
 ------------------
 - Added miui camera.
