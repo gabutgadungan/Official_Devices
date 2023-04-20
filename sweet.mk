@@ -34,7 +34,6 @@ Date: 19-04-2023
 - Disabled hwcomposer's dynamic fps
 - init: Add support for JAPAN region 
 - Added wakelock to citsensor service group 
-- Updated MIUI camera from V14.0.1.0.TKFEUXM
 - Merged latest CAF tags in kernel
 - Disabled some log spams in kernel
 - Updated dolby config values from oneplus
