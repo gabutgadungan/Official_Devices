@@ -1,6 +1,16 @@
 ==================
 Device Changelogs
 ==================
+Date: 19-05-2023
+------------------
+- Gcam go by default
+- Switch to xcaliber kernel
+- Nucked Moto dolby
+- Miscellaneous changes
+
+
+
+------------------
 Date: 19-04-2023
 ------------------
 - Drop miui camera
