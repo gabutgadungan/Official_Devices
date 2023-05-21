@@ -3,6 +3,20 @@ Device Changelogs
 ==================
 
 ---------------------
+Date: May 21,2023
+---------------------
+• Added Oneplus Dolby for better sound quality
+• rootdir: Enable suspend to RAM
+• overlay: Improve display brightness nits
+• overlay: Improve pinner configuration
+• overlay: Add and increase network signal tolerance
+• prop: Use HintManager for HWUI
+• overlay: Enable config_ui_enableFadingMarquee
+• sepolicy: Address denials in wakeup labels
+
+
+
+---------------------
 Date: April 13,2023
 ---------------------
 • Switched to common Xiaomi light AIDL
