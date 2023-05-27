@@ -26,6 +26,7 @@ note : Clean flash required
 credits : @mrfox2003 for dt and vt
           Vantom for kt
           @nutelladev for help to fic Leica cam.
+          @Coolaslikeice for testing
           @JYR_RC for Lecia cam.
 
 ------------------
