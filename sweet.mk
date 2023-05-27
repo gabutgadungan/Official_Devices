@@ -1,6 +1,34 @@
 ==================
 Device Changelogs
 ==================
+Date: 27-05-2023
+------------------
+- sweet : overlay: Increase status bar top padding
+- sweet: Build missing omx libs
+- sweet: Add newly added blobs to public.libraries.txt
+- sweet: Add some missing blobs
+- sweet: Remove discard command tuning
+- sweet: overlay: Disable NearbyMessagingService
+- sweet: overlay: Disable DiscoveryService
+- sweet: Set correct manufacturer
+- sweet: overlay: Disable subtle tick vibration when revealing shelf
+- sweet: Update Adreno to LA.UM.9.14.r1-21000-LAHAINA.QSSI13.0
+- sweet: Update DPM, IMS, and RIL system blobs
+- sweet: Import missing blobs
+- And many more underwood changes
+
+
+note : Clean flash required
+       Flash latest fw for your region.
+       Leica cam added
+       Vantom Kernel by default.
+       
+credits : @mrfox2003 for dt and vt
+          Vantom for kt
+          @nutelladev for help to fic Leica cam.
+          @JYR_RC for Lecia cam.
+
+------------------
 Date: 19-04-2023
 ------------------
 - Converted common tree into sweet tree
