@@ -75,6 +75,6 @@ Notes -
 Lecia Cam added
 Dolby Atmos added
 Vantom Kernel by default
-Use BitGapps Core for vanilla builds
-Use latest Orangefox recovery
+Use BitGapps Core for the vanilla build
+Use the latest Orangefox recovery
 latest fw recommended for your region
