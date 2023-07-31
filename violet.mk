@@ -1,6 +1,16 @@
 ==================
 Device Changelogs
 ==================
+Date: 31-07-2023
+-----------------
+- MemeCam By default
+- Switch to Hyper kernel
+- MotoDolby included
+- Miscellaneous changes
+- Bugs fixes
+
+
+
 Date: 19-05-2023
 ------------------
 - Gcam go by default
