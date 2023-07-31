@@ -13,6 +13,18 @@ Notes:
 - If your device bootloops, revert to an older build that boots, backup your stuff and do a clean flash.
 
 ====================
+STABLE v1.5
+====================
+Date: July 30,2023
+====================
+- Welcome STABLE DroidX-UI Release 
+- July 2023 Patch
+- Updated Gapps
+- Use NikGapps for Vanilla
+- Updated Launcher
+- Many Other Chages 😊
+
+====================
 ALPHA TWO
 ====================
 Date: April 23,2023
