@@ -1,6 +1,17 @@
 ===================
 Device changelogs
 ===================
+Date: August 09,2023
+===================
+- switched to leica cam 4.7
+- using nexus kernel v20 without ksu
+- using zyc clang 18
+- dropped wake to show screen
+
+
+===================
+Device changelogs
+===================
 Date: July 24,2023
 ===================
 - Included Basic Call recorder
