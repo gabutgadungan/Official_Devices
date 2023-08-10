@@ -4,6 +4,11 @@ Maintainer: ARIJIT-SAHA
 ==================
 Device Changelogs
 ==================
+Date: Aug 10,2023
+------------------
+- Some misc changes.
+
+
 ------------------
 Date: July 24,2023
 ------------------
