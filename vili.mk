@@ -1,6 +1,17 @@
 =================
 Device changelogs
 =================
+Date: 12/08/2023
+• Based on Blaze Kernel.
+• Updated KernelSU.
+• Completely nuked QS Lag.
+• Fixed VoWiFi for good.
+• Added BCR Call Recorder (No Announcement now).
+• Maintainer change.
+
+=================
+Device changelogs
+=================
 Date: 02/08/2023
 
 • Shipped with ReBorn
