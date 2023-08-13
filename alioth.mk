@@ -1,13 +1,21 @@
 ===================
 Device changelogs
 ===================
+Date: August 03,2023
+===================
+- using lates N0 kernel without ksu
+- using neutron clang 18
+- HOTFIX build
+
+===================
+Device changelogs
+===================
 Date: August 09,2023
 ===================
 - switched to leica cam 4.7
 - using nexus kernel v20 without ksu
 - using zyc clang 18
 - dropped wake to show screen
-
 
 ===================
 Device changelogs
