@@ -1,6 +1,14 @@
 ==================
 Device Changelogs
 ==================
+Date: 14-08-2023
+------------------
+- back to xcaliber kernel
+- Miscellaneous changes
+- Bugs fixes
+- Update some hals
+
+
 Date: 31-07-2023
 -----------------
 - MemeCam By default
