@@ -1,6 +1,15 @@
 ==================
 Device changelogs
 ==================
+Date: 24/08/2023
+==================
+
+- Addressed selinux denials related to fp
+
+
+==================
+Device changelogs
+==================
 Date: 12/08/2023
 ==================
 
