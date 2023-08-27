@@ -1,9 +1,15 @@
 ==================
 Device Changelogs
 ==================
+
+
+==================
+Date: 21-08-2023
+------------------
+sweet : sync with latest source release 
+
 Date: 30-07-2023
 ------------------
-
 sweet: ueventd: Remove all permissions from /sys/devices/soc0/serial_number
 sweet: Kang libspl.so from LA.UM.9.1.r1-12900-SMxxx0.0
 sweet: Switch to AutoSingleLayer Android 13 Setting
@@ -61,7 +67,7 @@ sweet: sepolicy: add ro.hardware.chipname prop
 sweet: vintf: Declare hals
 sweet: Remove duplicate mixer paths
 sweet: overlay: Adjust status bar paddings
-sweet: Don't latch unsignal buffer
+sweet: Don't latch unsignal buffers
 sweet: Disable Skia tracing by default
 sweet: Remove max ZRAM compression streams setting
 sweet: sepolicy: Remove no longer existing properties
@@ -72,17 +78,14 @@ sweet: Add hotword enrollment blobs from vayu
 sweet: Add missing DRM dependencies
 sweet : Enable Camera Vendor Tags for Xiaomi devices
 
-
 Notes -
-Lecia Cam added
+No Lecia Cam in this build, will be added in next one.
 Dolby Atmos added
 Vantom Kernel by default
 Use BitGapps Core for the vanilla build
 Use the latest Orangefox recovery
 latest fw recommended for your region
 
-==================
-Device Changelogs
 ==================
 Date: 27-05-2023
 ------------------
@@ -154,3 +157,4 @@ Note: Clean flash required
       Flash latest fw for your region.
       No MIUI/Lecia Cam.
       Vantom Kernel by default.
+
