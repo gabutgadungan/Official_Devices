@@ -1,6 +1,12 @@
 ==================
 Device Changelogs
 ==================
+
+==================
+Date: 21-08-2023
+------------------
+sweet : sync with latest source release 
+
 Date: 30-07-2023
 ------------------
 sweet: ueventd: Remove all permissions from /sys/devices/soc0/serial_number
@@ -72,7 +78,7 @@ sweet: Add missing DRM dependencies
 sweet : Enable Camera Vendor Tags for Xiaomi devices
 
 Notes -
-Lecia Cam added
+No Lecia Cam in this build, will be added in next one.
 Dolby Atmos added
 Vantom Kernel by default
 Use BitGapps Core for the vanilla build
