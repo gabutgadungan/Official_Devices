@@ -2,6 +2,32 @@
 Device Changelogs
 ==================
 
+====================
+STABLE v1.5.1
+====================
+Date: August 16,2023
+====================
+- Welcome STABLE DroidX-UI Release
+- August 2023 Patch
+- Updated Gapps
+- removed Oneplus Dolby
+
+
+
+---------------------
+Date: May 21,2023
+---------------------
+• Added Oneplus Dolby for better sound quality
+• rootdir: Enable suspend to RAM
+• overlay: Improve display brightness nits
+• overlay: Improve pinner configuration
+• overlay: Add and increase network signal tolerance
+• prop: Use HintManager for HWUI
+• overlay: Enable config_ui_enableFadingMarquee
+• sepolicy: Address denials in wakeup labels
+
+
+
 ---------------------
 Date: April 13,2023
 ---------------------

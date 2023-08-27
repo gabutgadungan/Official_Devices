@@ -1,6 +1,34 @@
 ==================
 Device Changelogs
 ==================
+Date: 14-08-2023
+------------------
+- back to xcaliber kernel
+- Miscellaneous changes
+- Bugs fixes
+- Update some hals
+
+
+Date: 31-07-2023
+-----------------
+- MemeCam By default
+- Switch to Hyper kernel
+- MotoDolby included
+- Miscellaneous changes
+- Bugs fixes
+
+
+
+Date: 19-05-2023
+------------------
+- Gcam go by default
+- Switch to xcaliber kernel
+- Nucked Moto dolby
+- Miscellaneous changes
+
+
+
+------------------
 Date: 19-04-2023
 ------------------
 - Drop miui camera
