@@ -1,6 +1,19 @@
 =================
 Device changelogs
 =================
+Date: 08/08/2023
+* Based on Blaze Kernel
+* Updated to latest KernelSU
+* Added Dolby Vision
+* Updated Camera Blobs to MIUI 14.0.11.0 TKDEUXM
+* Auto Brightness improvements
+* Added Leica Camera 5.0
+* Dropped Livedisplay
+* Decommonised Device Trees. CLEAN FLASH IS A MUST !
+
+=================
+Device changelogs
+=================
 Date: 12/08/2023
 • Based on Blaze Kernel.
 • Updated KernelSU.
