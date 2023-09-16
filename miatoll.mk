@@ -2,6 +2,18 @@
 Device Changelogs
 ==================
 
+====================
+STABLE v1.5.1
+====================
+Date: August 16,2023
+====================
+- Welcome STABLE DroidX-UI Release
+- August 2023 Patch
+- Updated Gapps
+- removed Oneplus Dolby
+
+
+
 ---------------------
 Date: May 21,2023
 ---------------------

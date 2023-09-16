@@ -1,6 +1,11 @@
 ==================
 Device Changelogs
 ==================
+Date: Aug 10,2023
+------------------
+- some misc changes and bugfixes.
+
+
 Date: July 25,2023
 ------------------
 - Cleanup device source 

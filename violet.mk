@@ -1,6 +1,7 @@
 ==================
 Device Changelogs
 ==================
+
 Date: 15-09-2023
 ------------------
 - Update kernel clang to 17.0.4
@@ -10,6 +11,23 @@ Date: 15-09-2023
 
 
 ------------------
+Date: 14-08-2023
+------------------
+- back to xcaliber kernel
+- Miscellaneous changes
+- Bugs fixes
+- Update some hals
+
+
+Date: 31-07-2023
+-----------------
+- MemeCam By default
+- Switch to Hyper kernel
+- MotoDolby included
+- Miscellaneous changes
+- Bugs fixes
+
+
 Date: 19-05-2023
 ------------------
 - Gcam go by default
