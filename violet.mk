@@ -1,6 +1,15 @@
 ==================
 Device Changelogs
 ==================
+Date: 15-09-2023
+------------------
+- Update kernel clang to 17.0.4
+- Bug fixes
+- Some underhood changes
+
+
+
+------------------
 Date: 19-05-2023
 ------------------
 - Gcam go by default
