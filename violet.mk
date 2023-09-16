@@ -1,6 +1,16 @@
 ==================
 Device Changelogs
 ==================
+
+Date: 15-09-2023
+------------------
+- Update kernel clang to 17.0.4
+- Bug fixes
+- Some underhood changes
+
+
+
+------------------
 Date: 14-08-2023
 ------------------
 - back to xcaliber kernel
@@ -16,7 +26,6 @@ Date: 31-07-2023
 - MotoDolby included
 - Miscellaneous changes
 - Bugs fixes
-
 
 
 Date: 19-05-2023
