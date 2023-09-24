@@ -1,13 +1,13 @@
 {
-    "BuildingTime": "20230918",
+    "BuildingTime": "20230924",
     "size": [
       {
-        "gapps": "1.9",
+        "gapps": "2.0",
         "vanilla": "1.4"
       }
     ],
-    "version" : "1.5.2",
-    "last_updated": "18th September 2023",
+    "version" : "1.5.3",
+    "last_updated": "24th September 2023",
     "maintainer": [
       {
         "name": "ZirgomHaidar",
