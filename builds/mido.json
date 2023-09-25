@@ -1,13 +1,13 @@
 {
-    "BuildingTime": "20230813",
+    "BuildingTime": "20230924",
     "size": [
       {
-        "gapps": "1.2",
-        "vanilla": "0.7"
+        "gapps": "1.4",
+        "vanilla": "0.8"
       }
     ],
-    "last_updated": "13th August 2023",
-    "version" : "1.5.1",
+    "last_updated": "24th September 2023",
+    "version" : "1.5.3",
     "maintainer": [
       {
         "name": "Nalinish Ranjan",

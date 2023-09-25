@@ -10,6 +10,14 @@
 - Always dirty flash at your own risk.
 - If your device bootloops, revert to an older build that boots, backup your stuff and do a clean flash.
 
+# STABLE v1.5.3 LimeDust
+## Date: August 24,2023
+
+- DroidX-UI 1.5.3 based on September 2023 Patch
+- No Device Side changes
+- Synced with latest Source
+- Clean Flash if any issue
+
 # STABLE v1.5.1
 ## Date: August 13,2023
 
