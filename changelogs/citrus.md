@@ -1,6 +1,15 @@
 <img src="https://raw.githubusercontent.com/DroidX-UI-Devices/Official_Devices/13/banners/changelogs.png" />
 
-# v1.5.2 LimeDust [NEW]
+
+# v1.5.3 LimeDust [NEW]
+
+- initial Release
+- fixed Some ims props
+- now ksu supports
+- New kernel thnx (@hac4us)
+- etc.
+
+# v1.5.2 LimeDust
 
 - Shipped With Gcam Go
 - Screen Recording Green Screen issue Fixed .
