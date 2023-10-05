@@ -1,4 +1,4 @@
-<pre language="c++">- Merged with latest august patch 13_r67 tag.
+- Merged with latest august patch 13_r67 tag.
 - Redesigned Settings UI from DotOS (Thanks to them).
 - Added support for App lock.
 - Added A11 type Qs Panel by default.
@@ -21,4 +21,4 @@
 - Added support for live display, works perfectly.
 - Added support for touch gestures.
 - Added support for Game Props, works by default no toggle needed.
-- Excluded cinematic wallpaper for now.</pre>
+- Excluded cinematic wallpaper for now.
