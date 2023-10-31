@@ -1,0 +1,50 @@
+{
+    "BuildingTime": "20230924",
+    "last_updated": "24th September 2023",
+    "version": "1.5.3",
+    "maintainer": [
+        {
+            "name": "Nalinish Ranjan",
+            "telegram": "https://t.me/HyperPower17",
+            "name2": "Onkar Singh Sahil",
+            "telegram2": "https://t.me/error7951"
+        }
+    ],
+    "device_name": "Redmi Note 4/4X",
+    "device": "mido",
+    "xda_thread": "",
+    "Device cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/mido.md",
+    "Links": [
+        {
+            "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/mido/droidx-1.5.3-20230924-OFFICIAL-mido-Gapps.zip/download",
+            "Vanilla": "https://sourceforge.net/projects/droidxui-releases/files/mido/droidx-1.5.3-20230924-OFFICIAL-mido-Vanilla.zip/download"
+        }
+    ],
+    "Status": "Official",
+    "GitProfile": "https://github.com/NRanjan-17",
+    "Position": "Core Team"
+  },
+  {
+    "BuildingTime": "",
+    "last_updated": "",
+    "version": "",
+    "maintainer": [
+        {
+            "name": "",
+            "telegram": ""
+        }
+    ],
+    "device_name": "",
+    "device": "",
+    "xda_thread": "",
+    "Device cglg": "",
+    "Links": [
+        {
+            "Gapps": "",
+            "Vanilla": ""
+        }
+    ],
+    "Status": "",
+    "GitProfile": "",
+    "Position": ""
+  }
