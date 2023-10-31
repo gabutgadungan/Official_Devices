@@ -1,50 +1,48 @@
 {
-    "BuildingTime": "20230924",
-    "last_updated": "24th September 2023",
-    "version": "1.5.3",
-    "maintainer": [
+    "devices": [
         {
-            "name": "Nalinish Ranjan",
-            "telegram": "https://t.me/HyperPower17",
-            "name2": "Onkar Singh Sahil",
-            "telegram2": "https://t.me/error7951"
-        }
-    ],
-    "device_name": "Redmi Note 4/4X",
-    "device": "mido",
-    "xda_thread": "",
-    "Device cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/mido.md",
-    "Links": [
+            "codename": "mido",
+            "vendor": "xiaomi",
+            "model": "Redmi Note 4",
+            "maintainer_name": "Sahil",
+            "co-maintaier": "Nalinish Ranjan",
+            "BuildingTime": "20230924",
+            "last_updated": "24th September 2023",
+            "version": "1.5.3",
+            "active": true,
+            "Device cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/mido.md",
+            "Links": [
+                {
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/mido/droidx-1.5.3-20230924-OFFICIAL-mido-Gapps.zip/download",
+                    "Vanilla": "https://sourceforge.net/projects/droidxui-releases/files/mido/droidx-1.5.3-20230924-OFFICIAL-mido-Vanilla.zip/download"
+                }
+            ],
+            "Status": "Official",
+            "device-pic": "https://raw.githubusercontent.com/PixelExperience/official_devices/9221aa909c90b59404d6a967c25f90ac7ae4e591/images/mido.png",
+            "GitProfile": "https://github.com/NRanjan-17",
+            "Position": "Core Team"
+        },
         {
-            "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/mido/droidx-1.5.3-20230924-OFFICIAL-mido-Gapps.zip/download",
-            "Vanilla": "https://sourceforge.net/projects/droidxui-releases/files/mido/droidx-1.5.3-20230924-OFFICIAL-mido-Vanilla.zip/download"
+            "codename": "",
+            "vendor": "",
+            "model": "",
+            "maintainer_name": "",
+            "co-maintaier": "",
+            "BuildingTime": "",
+            "last_updated": "",
+            "version": "",
+            "active": true,
+            "Device cglg": "",
+            "Links": [
+                {
+                    "Gapps": "",
+                    "Vanilla": ""
+                }
+            ],
+            "Status": "Official",
+            "device-pic": "",
+            "GitProfile": "",
+            "Position": ""
         }
-    ],
-    "Status": "Official",
-    "GitProfile": "https://github.com/NRanjan-17",
-    "Position": "Core Team"
-  },
-  {
-    "BuildingTime": "",
-    "last_updated": "",
-    "version": "",
-    "maintainer": [
-        {
-            "name": "",
-            "telegram": ""
-        }
-    ],
-    "device_name": "",
-    "device": "",
-    "xda_thread": "",
-    "Device cglg": "",
-    "Links": [
-        {
-            "Gapps": "",
-            "Vanilla": ""
-        }
-    ],
-    "Status": "",
-    "GitProfile": "",
-    "Position": ""
-  }
+    ]
+}
