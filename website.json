@@ -4,46 +4,45 @@
             "codename": "mido",
             "vendor": "xiaomi",
             "model": "Redmi Note 4",
-            "maintainer_name": "Nalinish
-Ranjan",
-            "co-maintaier": "Sahil",
+            "maintainer_name": "Nalinish Ranjan",
+            "co_maintainer_name": "Sahil",
             "BuildingTime": "20230924",
             "last_updated": "24th September 2023",
             "version": "1.5.3",
             "active": true,
-            "Device cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/mido.md",
+            "device_cglg": "https://www.github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/mido.md",
             "Links": [
                 {
                     "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/mido/droidx-1.5.3-20230924-OFFICIAL-mido-Gapps.zip/download",
                     "Vanilla": "https://sourceforge.net/projects/droidxui-releases/files/mido/droidx-1.5.3-20230924-OFFICIAL-mido-Vanilla.zip/download"
                 }
             ],
-            "Status": "Official",
-            "device-pic": "https://raw.githubusercontent.com/PixelExperience/official_devices/9221aa909c90b59404d6a967c25f90ac7ae4e591/images/mido.png",
-            "GitProfile": "https://github.com/NRanjan-17",
-            "Position": "Core Team"
+            "status": "Official",
+            "device_pic": "https://raw.githubusercontent.com/PixelExperience/official_devices/9221aa909c90b59404d6a967c25f90ac7ae4e591/images/mido.png",
+            "gitProfile": "https://github.com/NRanjan-17",
+            "position": "Core Team"
         },
         {
-            "codename": "",
-            "vendor": "",
-            "model": "",
-            "maintainer_name": "",
-            "co-maintaier": "",
-            "BuildingTime": "",
-            "last_updated": "",
-            "version": "",
+            "codename": "asdf",
+            "vendor": "something",
+            "model": "something",
+            "maintainer_name": "something",
+            "co-maintaier": "something",
+            "BuildingTime": "v",
+            "last_updated": "something",
+            "version": "something",
             "active": true,
-            "Device cglg": "",
+            "Device cglg": "something",
             "Links": [
                 {
-                    "Gapps": "",
-                    "Vanilla": ""
+                    "Gapps": "something",
+                    "Vanilla": "something"
                 }
             ],
             "Status": "Official",
-            "device-pic": "",
-            "GitProfile": "",
-            "Position": ""
+            "device-pic": "something",
+            "GitProfile": "something",
+            "Position": "something"
         }
     ]
 }
