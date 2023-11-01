@@ -5,7 +5,7 @@
             "vendor": "xiaomi",
             "model": "Redmi Note 4",
             "maintainer_name": "Nalinish Ranjan",
-            "co_maintainer_name": "Sahil",
+            "co_maintainer_name": "",
             "BuildingTime": "20230924",
             "last_updated": "24th September 2023",
             "version": "1.5.3",
@@ -20,29 +20,30 @@
             "status": "Official",
             "device_pic": "https://raw.githubusercontent.com/PixelExperience/official_devices/9221aa909c90b59404d6a967c25f90ac7ae4e591/images/mido.png",
             "gitProfile": "https://github.com/NRanjan-17",
+            "gitProfile": "",
             "position": "Core Team"
         },
         {
-            "codename": "asdf",
-            "vendor": "something",
-            "model": "something",
-            "maintainer_name": "something",
-            "co-maintaier": "something",
-            "BuildingTime": "v",
-            "last_updated": "something",
-            "version": "something",
+            "codename": "",
+            "vendor": "",
+            "model": "",
+            "maintainer_name": "",
+            "co_maintainer_name": "if not have than make it empty dont use -,_",
+            "BuildingTime": "20230924",
+            "last_updated": "24th September 2023",
+            "version": "1.5.3",
             "active": true,
-            "Device cglg": "something",
+            "device_cglg": "your changelogs",
             "Links": [
                 {
-                    "Gapps": "something",
-                    "Vanilla": "something"
+                    "Gapps": "",
+                    "Vanilla": ""
                 }
             ],
-            "Status": "Official",
-            "device-pic": "something",
-            "GitProfile": "something",
-            "Position": "something"
+            "status": "Official",
+            "device_pic": "",
+            "gitProfile": "",
+            "position": "core/maintainer/web chose any one"
         }
     ]
 }
