@@ -24,27 +24,27 @@
             "position": "Core Team"
         },
         {
-            "codename": "",
-            "vendor": "",
-            "model": "",
-            "maintainer_name": "",
+            "codename": "RMX2020",
+            "vendor": "realme",
+            "model": "Realme C3/Narzo 10A",
+            "maintainer_name": "Koushik Dey",
             "co_maintainer_name": "",
-            "BuildingTime": "20230924",
-            "last_updated": "24th September 2023",
-            "version": "1.5.3",
+            "BuildingTime": "20231029",
+            "last_updated": "1st October 2023",
+            "version": "1.6",
             "active": true,
-            "device_cglg": "your changelogs",
+            "device_cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/RMX2020.md",
             "Links": [
                 {
-                    "Gapps": "",
-                    "Vanilla": ""
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/RMX2020/droidx-1.6-20231029-1106-OFFICIAL-RMX2020-Gapps.zip/download",
+                    "Vanilla": "https://sourceforge.net/projects/droidxui-releases/files/RMX2020/droidx-1.6-20231029-1045-OFFICIAL-RMX2020-Vanilla.zip/download"
                 }
             ],
             "status": "Official",
-            "device_pic": "",
-            "gitProfile": "",
-            "profile_pic": "your profile picture in https link",
-            "position": "core/maintainer/web chose any one"
+            "device_pic": "https://raw.githubusercontent.com/Koushikdey2003/device_pics/main/Realme%20C3.png",
+            "gitProfile": "https://github.com/Koushikdey2003",
+            "profile_pic": "https://avatars.githubusercontent.com/u/123065250?v=4",
+            "position": "maintainer"
         },
         {
             "codename": "",
