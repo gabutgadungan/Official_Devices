@@ -4,46 +4,46 @@
             "codename": "mido",
             "vendor": "xiaomi",
             "model": "Redmi Note 4",
-            "maintainer_name": "Nalinish
-Ranjan",
-            "co-maintaier": "Sahil",
+            "maintainer_name": "Nalinish Ranjan",
+            "co_maintainer_name": "",
             "BuildingTime": "20230924",
             "last_updated": "24th September 2023",
             "version": "1.5.3",
             "active": true,
-            "Device cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/mido.md",
+            "device_cglg": "https://www.github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/mido.md",
             "Links": [
                 {
                     "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/mido/droidx-1.5.3-20230924-OFFICIAL-mido-Gapps.zip/download",
                     "Vanilla": "https://sourceforge.net/projects/droidxui-releases/files/mido/droidx-1.5.3-20230924-OFFICIAL-mido-Vanilla.zip/download"
                 }
             ],
-            "Status": "Official",
-            "device-pic": "https://raw.githubusercontent.com/PixelExperience/official_devices/9221aa909c90b59404d6a967c25f90ac7ae4e591/images/mido.png",
-            "GitProfile": "https://github.com/NRanjan-17",
-            "Position": "Core Team"
+            "status": "Official",
+            "device_pic": "https://raw.githubusercontent.com/PixelExperience/official_devices/9221aa909c90b59404d6a967c25f90ac7ae4e591/images/mido.png",
+            "gitProfile": "https://github.com/NRanjan-17",
+            "gitProfile": "",
+            "position": "Core Team"
         },
         {
             "codename": "",
             "vendor": "",
             "model": "",
             "maintainer_name": "",
-            "co-maintaier": "",
-            "BuildingTime": "",
-            "last_updated": "",
-            "version": "",
+            "co_maintainer_name": "if not have than make it empty dont use -,_",
+            "BuildingTime": "20230924",
+            "last_updated": "24th September 2023",
+            "version": "1.5.3",
             "active": true,
-            "Device cglg": "",
+            "device_cglg": "your changelogs",
             "Links": [
                 {
                     "Gapps": "",
                     "Vanilla": ""
                 }
             ],
-            "Status": "Official",
-            "device-pic": "",
-            "GitProfile": "",
-            "Position": ""
+            "status": "Official",
+            "device_pic": "",
+            "gitProfile": "",
+            "position": "core/maintainer/web chose any one"
         }
     ]
 }
