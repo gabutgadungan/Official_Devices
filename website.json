@@ -137,6 +137,29 @@
             "gitProfile": "https://www.github.com/jayb71",
             "profile_pic": "your profile picture in https link",
             "position": "maintainer"
+        },
+        {
+            "codename": "X01AD",
+            "vendor": "ASUS",
+            "model": "Asus Zenfone Max M2",
+            "maintainer_name": "AssunZain(Akang Zain)",
+            "co_maintainer_name": "",
+            "BuildingTime": "20231030",
+            "last_updated": "30th October 2023",
+            "version": "1.6",
+            "active": true,
+            "device_cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/X01AD.md",
+            "Links": [
+                {
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/X01AD/droidx-1.6-20231031-0119-OFFICIAL-X01AD-Gapps.zip/download",
+                    "Vanilla": "https://sourceforge.net/projects/droidxui-releases/files/X01AD/droidx-1.6-20231030-1406-OFFICIAL-X01AD-Vanilla.zip/download"
+                }
+            ],
+            "status": "Official",
+            "device_pic": "https://fdn2.gsmarena.com/vv/pics/asus/asus-zenfone-max-m2-zb633kl-1.jpg",
+            "gitProfile": "https://github.com/Assunzain",
+            "profile_pic": "https://avatars.githubusercontent.com/u/58516381?v=4",
+            "position": "maintainer"
         }
         
     ]
