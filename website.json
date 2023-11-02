@@ -156,7 +156,7 @@
                 }
             ],
             "status": "Official",
-            "device_pic": "https://github.com/PixelExperience/official_devices/blob/master/images/X01AD.png",
+            "device_pic": "https://raw.githubusercontent.com/PixelExperience/official_devices/master/images/X01AD.png",
             "gitProfile": "https://github.com/Assunzain",
             "profile_pic": "https://avatars.githubusercontent.com/u/58516381?v=4",
             "position": "maintainer"
