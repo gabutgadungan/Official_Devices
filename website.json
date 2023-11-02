@@ -93,6 +93,29 @@
             "position": "maintainer"
         },
         {
+            "codename": "Haydn",
+            "vendor": "Xiaomi",
+            "model": "Mi 11X Pro",
+            "maintainer_name": "Vinayak",
+            "co_maintainer_name": "",
+            "BuildingTime": "20231029",
+            "last_updated": "29th October 2023",
+            "version": "1.6.0",
+            "active": true,
+            "device_cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/haydn.md",
+            "Links": [
+                {
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/haydn/droidx-1.6-20231029-0335-OFFICIAL-haydn-Gapps.zip/download",
+                    "Vanilla": ""
+                }
+            ],
+            "status": "Official",
+            "device_pic": "https://raw.githubusercontent.com/PixelExperience/official_devices/master/images/haydn.png",
+            "gitProfile": "https://github.com/INCENDIOCODM",
+            "profile_pic": "https://avatars.githubusercontent.com/u/106219962?v=4",
+            "position": "maintainer"
+        },
+        {
             "codename": "",
             "vendor": "",
             "model": "",
