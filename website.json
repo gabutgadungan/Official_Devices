@@ -133,7 +133,7 @@
                 }
             ],
             "status": "Official",
-            "device_pic": "https://raw.github.com/PixelExperience/official_devices/blob/master/images/sakura.png",
+            "device_pic": "https://raw.githubusercontent.com/PixelExperience/official_devices/master/images/sakura.png",
             "gitProfile": "https://www.github.com/jayb71",
             "profile_pic": "your profile picture in https link",
             "position": "maintainer"
