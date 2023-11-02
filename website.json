@@ -47,50 +47,50 @@
             "position": "maintainer"
         },
         {
-            "codename": "",
-            "vendor": "",
-            "model": "",
-            "maintainer_name": "",
+            "codename": "Lime",
+            "vendor": "Xiaomi",
+            "model": "Redmi 9 Power",
+            "maintainer_name": "Ganesh Jadhav",
             "co_maintainer_name": "",
-            "BuildingTime": "20230924",
-            "last_updated": "24th September 2023",
+            "BuildingTime": "20230929",
+            "last_updated": "29th September 2023",
             "version": "1.5.3",
             "active": true,
-            "device_cglg": "your changelogs",
+            "device_cglg": "https://github.com/Notganesh/Official_Devices/blob/13/changelogs/lime.md",
             "Links": [
                 {
-                    "Gapps": "",
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/chime/droidx-1.5.3-20230930-OFFICIAL-lime-Gapps.zip/download",
                     "Vanilla": ""
                 }
             ],
             "status": "Official",
-            "device_pic": "",
-            "gitProfile": "",
-            "profile_pic": "your profile picture in https link",
-            "position": "core/maintainer/web chose any one"
+            "device_pic": "https://camo.githubusercontent.com/8bd96a0a05b048b0b6787ad1646466cc07d0bc7983da0f719bc76186f47a40c8/68747470733a2f2f66646e322e67736d6172656e612e636f6d2f76762f706963732f7869616f6d692f7869616f6d692d7265646d692d39742d332e6a7067",
+            "gitProfile": "https://github.com/Notganesh",
+            "profile_pic": "https://avatars.githubusercontent.com/u/124853762?v=4",
+            "position": "maintainer"
         },
         {
-            "codename": "",
-            "vendor": "",
-            "model": "",
-            "maintainer_name": "",
+            "codename": "Citrus",
+            "vendor": "Xiaomi",
+            "model": "Poco M3",
+            "maintainer_name": "Ganesh Jadhav",
             "co_maintainer_name": "",
-            "BuildingTime": "20230924",
-            "last_updated": "24th September 2023",
+            "BuildingTime": "20230927",
+            "last_updated": "27th September 2023",
             "version": "1.5.3",
             "active": true,
-            "device_cglg": "your changelogs",
+            "device_cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/citrus.md",
             "Links": [
                 {
-                    "Gapps": "",
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/chime/droidx-1.5.3-20230930-OFFICIAL-citrus-Gapps.zip/download",
                     "Vanilla": ""
                 }
             ],
             "status": "Official",
-            "device_pic": "",
-            "gitProfile": "",
-            "profile_pic": "your profile picture in https link",
-            "position": "core/maintainer/web chose any one"
+            "device_pic": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-poco-m3-3.jpg",
+            "gitProfile": "https://github.com/Notganesh",
+            "profile_pic": "https://avatars.githubusercontent.com/u/124853762?v=4",
+            "position": "maintainer"
         },
         {
             "codename": "",
