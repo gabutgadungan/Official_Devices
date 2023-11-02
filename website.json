@@ -138,51 +138,6 @@
             "profile_pic": "your profile picture in https link",
             "position": "maintainer"
         },
-        {
-            "codename": "",
-            "vendor": "",
-            "model": "",
-            "maintainer_name": "",
-            "co_maintainer_name": "",
-            "BuildingTime": "20230924",
-            "last_updated": "24th September 2023",
-            "version": "1.5.3",
-            "active": true,
-            "device_cglg": "your changelogs",
-            "Links": [
-                {
-                    "Gapps": "",
-                    "Vanilla": ""
-                }
-            ],
-            "status": "Official",
-            "device_pic": "",
-            "gitProfile": "",
-            "profile_pic": "your profile picture in https link",
-            "position": "core/maintainer/web chose any one"
-        },
-        {
-            "codename": "",
-            "vendor": "",
-            "model": "",
-            "maintainer_name": "",
-            "co_maintainer_name": " ",
-            "BuildingTime": "20230924",
-            "last_updated": "24th September 2023",
-            "version": "1.5.3",
-            "active": true,
-            "device_cglg": "your changelogs",
-            "Links": [
-                {
-                    "Gapps": "",
-                    "Vanilla": ""
-                }
-            ],
-            "status": "Official",
-            "device_pic": "",
-            "gitProfile": "",
-            "profile_pic": "your profile picture in https link",
-            "position": "core/maintainer/web chose any one"
-        }
+        
     ]
 }
