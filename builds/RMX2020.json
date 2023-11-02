@@ -1,21 +1,21 @@
 {
-    "BuildingTime": "",
+    "BuildingTime": "20231029",
     "size": [
       {
-        "gapps": "",
-        "vanilla": ""
+        "gapps": "1.65",
+        "vanilla": "1.03"
       }
     ],
-    "version" : "",
-    "last_updated": "",
+    "version" : "1.6",
+    "last_updated": "1st October 2023",
     "maintainer": [
       {
-        "name": "",
-        "telegram": ""
+        "name": "Koushik Dey",
+        "telegram": "https://t.me/koushikdey3"
       }
     ],
-    "device_name": "",
-    "device": "",
+    "device_name": "Realme C3/Narzo 10A",
+    "device": "RMX2020",
     "xda_thread": "",
-    "updater": false
+    "updater": true
 }
