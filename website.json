@@ -116,6 +116,29 @@
             "position": "maintainer"
         },
         {
+            "codename": "sakura",
+            "vendor": "Xiaomi",
+            "model": "Redmi 6 Pro",
+            "maintainer_name": "Aneesh",
+            "co_maintainer_name": "JAYY",
+            "BuildingTime": "20230920",
+            "last_updated": "20th September 2023",
+            "version": "1.5.3",
+            "active": true,
+            "device_cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/sakura.md",
+            "Links": [
+                {
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/sakura/droidx-1.5.3-20230920-OFFICIAL-sakura-Gapps.zip/download",
+                    "Vanilla": "https://sourceforge.net/projects/droidxui-releases/files/sakura/droidx-1.5.3-20230920-OFFICIAL-sakura-Vanilla.zip/download"
+                }
+            ],
+            "status": "Official",
+            "device_pic": "https://github.com/PixelExperience/official_devices/blob/master/images/sakura.png",
+            "gitProfile": "https://github.com/jayb71",
+            "profile_pic": "your profile picture in https link",
+            "position": "maintainer"
+        },
+        {
             "codename": "",
             "vendor": "",
             "model": "",
