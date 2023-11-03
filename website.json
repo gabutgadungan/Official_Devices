@@ -183,7 +183,7 @@
             "gitProfile": "https://github.com/Assunzain",
             "profile_pic": "https://avatars.githubusercontent.com/u/58516381?v=4",
             "position": "maintainer"
-        }
+        },
          {
             "codename": "begonia",
             "vendor": "Xiaomi",
@@ -206,5 +206,6 @@
             "gitProfile": "https://github.com/DexterNoob",
             "profile_pic": "your profile picture in https link",
             "position": "maintainer"
+         }
     ]
 }
