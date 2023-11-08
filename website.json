@@ -253,5 +253,28 @@
             "profile_pic": "https://avatars.githubusercontent.com/u/97881238?s=400&u=97dea7155edd80d103af57037ef20881fdce00ef&v=4",
             "position": "maintainer"
         }
+        {
+            "codename": "spartan",
+            "vendor": "Realme",
+            "model": "Gt Neo 3T",
+            "maintainer_name": "Hariprakash",
+            "co_maintainer_name": "",
+            "BuildingTime": "20230918",
+            "last_updated": "18th September 2023",
+            "version": "1.5.2",
+            "active": true,
+            "device_cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/spartan.md",
+            "Links": [
+                {
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/spartan/droidx-1.5.2-20230918-OFFICIAL-spartan-Gapps.zip/download",
+                    "Vanilla": ""
+                }
+            ],
+            "status": "Official",
+            "device_pic": "",
+            "gitProfile": "https://github.com/Thunder105",
+            "profile_pic": "https://avatars.githubusercontent.com/u/48315052?s=400&u=563286b6b541662bbfaf982bcba8fde959694469&v=4",
+            "position": "maintainer"
+        }
     ]
 }
