@@ -229,6 +229,29 @@
             "gitProfile": "https://github.com/DexterNoob",
             "profile_pic": "your profile picture in https link",
             "position": "maintainer"
-         }
+         },
+        {
+            "codename": "redwood",
+            "vendor": "Xiaomi",
+            "model": "Poco X5 Pro 5G",
+            "maintainer_name": "PRIYANSHU",
+            "co_maintainer_name": "",
+            "BuildingTime": "20231105",
+            "last_updated": "5th November 2023",
+            "version": "1.6",
+            "active": true,
+            "device_cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/redwood.md",
+            "Links": [
+                {
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/redwood/13/droidx-1.6-20231104-1744-OFFICIAL-redwood-Gapps.zip/download",
+                    "Vanilla": ""
+                }
+            ],
+            "status": "Official",
+            "device_pic": "https://crdroid.net/img/devices/redwood.webp",
+            "gitProfile": "https://github.com/thepriyanshujangid",
+            "profile_pic": "https://avatars.githubusercontent.com/u/97881238?s=400&u=97dea7155edd80d103af57037ef20881fdce00ef&v=4",
+            "position": "maintainer"
+        }
     ]
 }
