@@ -252,6 +252,31 @@
             "gitProfile": "https://github.com/thepriyanshujangid",
             "profile_pic": "https://avatars.githubusercontent.com/u/97881238?s=400&u=97dea7155edd80d103af57037ef20881fdce00ef&v=4",
             "position": "maintainer"
+        },
+        {
+    "devices": [
+        {
+            "codename": "camellia",
+            "vendor": "Xiaomi",
+            "model": "Redmi Note 10 5G",
+            "maintainer_name": "Noah",
+            "co_maintainer_name": "",
+            "BuildingTime": "20231108",
+            "last_updated": "8th November 2023",
+            "version": "1.6",
+            "active": true,
+            "device_cglg": "",
+            "Links": [
+                {
+                    "Gapps": "https://github.com/Noah113-Allen/OTA/releases/tag/6.0",
+                    "Vanilla": ""
+                }
+            ],
+            "status": "",
+            "device_pic": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1620310381.63075759.png",
+            "gitProfile": "https://github.com/Noah113-Allen",
+            "profile_pic": "https://avatars.githubusercontent.com/u/107565494?v=4",
+            "position": "maintainer"
         }
     ]
 }
