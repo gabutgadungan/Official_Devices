@@ -275,6 +275,27 @@
             "gitProfile": "https://github.com/Noah113-Allen",
             "profile_pic": "https://avatars.githubusercontent.com/u/107565494?v=4",
             "position": "maintainer"
+        },
+        {
+            "codename": "r5x",
+            "vendor": "realme",
+            "model": "Realme 5 Series",
+            "maintainer_name": "shygosh",
+            "BuildingTime": "20231110",
+            "last_updated": "10th November 2023",
+            "version": "1.6",
+            "active": true,
+            "device_cglg": "https://www.github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/r5x.md",
+            "Links": [
+                {
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/r5x/droidx-1.6-20231110-1103-OFFICIAL-r5x-Gapps.zip/download"
+                }
+            ],
+            "status": "Official",
+            "device_pic": "https://fdn2.gsmarena.com/vv/pics/realme/realme-5-rmx1911-2.jpg",
+            "gitProfile": "https://github.com/shygosh",
+            "profile_pic": "https://avatars.githubusercontent.com/u/71200624",
+            "position": "maintainer"
         }
     ]
 }
