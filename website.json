@@ -254,8 +254,6 @@
             "position": "maintainer"
         },
         {
-    "devices": [
-        {
             "codename": "camellia",
             "vendor": "Xiaomi",
             "model": "Redmi Note 10 5G",
