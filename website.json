@@ -275,6 +275,29 @@
             "gitProfile": "https://github.com/Noah113-Allen",
             "profile_pic": "https://avatars.githubusercontent.com/u/107565494?v=4",
             "position": "maintainer"
+        },
+        {
+            "codename": "sweet",
+            "vendor": "Xiaomi",
+            "model": "Redmi Note 10 Pro",
+            "maintainer_name": "Bhaskar",
+            "co_maintainer_name": "",
+            "BuildingTime": "20230920",
+            "last_updated": "20th September 2023",
+            "version": "1.4",
+            "active": true,
+            "device_cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/sweet.md",
+            "Links": [
+                {
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/sweet/droidx-1.5.3-20230920-OFFICIAL-sweet-Gapps.zip/download",
+                    "Vanilla": "https://sourceforge.net/projects/droidxui-releases/files/sweet/droidx-1.5.3-20230920-OFFICIAL-sweet-Vanilla.zip/download"
+                }
+            ],
+            "status": "Official",
+            "device_pic": "https://camo.githubusercontent.com/42fb2a58c3dcded3efe0cb12a5ad79ae9713f65286924a7e6345f976d19caf62/68747470733a2f2f692e696d6775722e636f6d2f743362794768392e706e67",
+            "gitProfile": "https://github.com/bhaskar966",
+            "profile_pic": "https://avatars.githubusercontent.com/u/86063625",
+            "position": "maintainer"
         }
     ]
 }
