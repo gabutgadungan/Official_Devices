@@ -277,6 +277,7 @@
             "position": "maintainer"
         },
         {
+
             "codename": "sweet",
             "vendor": "Xiaomi",
             "model": "Redmi Note 10 Pro",
@@ -297,6 +298,27 @@
             "device_pic": "https://camo.githubusercontent.com/42fb2a58c3dcded3efe0cb12a5ad79ae9713f65286924a7e6345f976d19caf62/68747470733a2f2f692e696d6775722e636f6d2f743362794768392e706e67",
             "gitProfile": "https://github.com/bhaskar966",
             "profile_pic": "https://avatars.githubusercontent.com/u/86063625",
+},
+      {
+            "codename": "r5x",
+            "vendor": "realme",
+            "model": "Realme 5 Series",
+            "maintainer_name": "shygosh",
+            "BuildingTime": "20231110",
+            "last_updated": "10th November 2023",
+            "version": "1.6",
+            "active": true,
+            "device_cglg": "https://www.github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/r5x.md",
+            "Links": [
+                {
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/r5x/droidx-1.6-20231110-1103-OFFICIAL-r5x-Gapps.zip/download"
+                }
+            ],
+            "status": "Official",
+            "device_pic": "https://fdn2.gsmarena.com/vv/pics/realme/realme-5-rmx1911-2.jpg",
+            "gitProfile": "https://github.com/shygosh",
+            "profile_pic": "https://avatars.githubusercontent.com/u/71200624",
+
             "position": "maintainer"
         }
     ]
