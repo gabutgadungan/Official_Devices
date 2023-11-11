@@ -52,14 +52,14 @@
             "model": "Redmi 9 Power",
             "maintainer_name": "Ganesh Jadhav",
             "co_maintainer_name": "",
-            "BuildingTime": "20230929",
-            "last_updated": "29th September 2023",
-            "version": "1.5.3",
+            "BuildingTime": "20231111",
+            "last_updated": "11th November 2023",
+            "version": "1.6",
             "active": true,
             "device_cglg": "https://github.com/Notganesh/Official_Devices/blob/13/changelogs/lime.md",
             "Links": [
                 {
-                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/chime/droidx-1.5.3-20230930-OFFICIAL-lime-Gapps.zip/download",
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/chime/droidx-1.6-20231111-0810-OFFICIAL-lime-Gapps.zip/download",
                     "Vanilla": ""
                 }
             ],
@@ -75,14 +75,14 @@
             "model": "Poco M3",
             "maintainer_name": "Ganesh Jadhav",
             "co_maintainer_name": "",
-            "BuildingTime": "20230927",
-            "last_updated": "27th September 2023",
-            "version": "1.5.3",
+            "BuildingTime": "20231111",
+            "last_updated": "11th November 2023",
+            "version": "1.6",
             "active": true,
             "device_cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/citrus.md",
             "Links": [
                 {
-                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/chime/droidx-1.5.3-20230930-OFFICIAL-citrus-Gapps.zip/download",
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/chime/droidx-1.6-20231111-1010-OFFICIAL-citrus-Gapps.zip/download",
                     "Vanilla": ""
                 }
             ],
