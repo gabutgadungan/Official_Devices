@@ -229,6 +229,31 @@
             "gitProfile": "https://github.com/DexterNoob",
             "profile_pic": "your profile picture in https link",
             "position": "maintainer"
+        },
+        {
+    "devices": [
+        {
+            "codename": "fleur",
+            "vendor": "Xiaomi",
+            "model": "POCO M4 Pro 4G",
+            "maintainer_name": "fjrXTR",
+            "co_maintainer_name": "",
+            "BuildingTime": "20231111",
+            "last_updated": "",
+            "version": "1.6",
+            "active": true,
+            "device_cglg": "",
+            "Links": [
+                {
+                    "Gapps": "",
+                    "Vanilla": ""
+                }
+            ],
+            "status": "Official",
+            "device_pic": "https://raw.githubusercontent.com/fjrXTR/device_pics/d51495d07f47703bf70559bdc8151c645d413201/Fleur_PocoM4Pro.png",
+            "gitProfile": "https://github.com/fjrXTR",
+            "profile_pic": "https://avatars.githubusercontent.com/u/123760419?v=4",
+            "position": "maintainer"
          }
     ]
 }
