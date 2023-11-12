@@ -365,5 +365,28 @@
             "profile_pic": "https://avatars.githubusercontent.com/u/123760419?v=4",
             "position": "maintainer"
         }
+        {
+            "codename": "martini",
+            "vendor": "OnePlus",
+            "model": "9RT",
+            "maintainer_name": "Mrick343",
+            "co_maintainer_name": "",
+            "BuildingTime": "20231111",
+            "last_updated": "11th November 2023",
+            "version": "1.6",
+            "active": true,
+            "device_cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/martini.md",
+            "Links": [
+                {
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/martini/droidx-1.6-20231111-1309-OFFICIAL-martini-Gapps.zip/download",
+                    "Vanilla": ""
+                }
+            ],
+            "status": "Official",
+            "device_pic": "https://camo.githubusercontent.com/5fa0be13b9e4cc1a9aa600243ea18cb32264164ab4f389ca095ada31fe9063e2/68747470733a2f2f692e696d6775722e636f6d2f545844436746732e706e67",
+            "gitProfile": "https://github.com/Mrick343",
+            "profile_pic": "https://avatars.githubusercontent.com/u/85066116?v=4",
+            "position": "maintainer"
+        }
     ]
 }
