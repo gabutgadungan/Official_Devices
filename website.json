@@ -259,14 +259,14 @@
             "model": "Redmi Note 10 5G",
             "maintainer_name": "Noah",
             "co_maintainer_name": "",
-            "BuildingTime": "20231108",
-            "last_updated": "8th November 2023",
-            "version": "1.6",
+            "BuildingTime": "20231120",
+            "last_updated": "20th November 2023",
+            "version": "1.7",
             "active": true,
             "device_cglg": "",
             "Links": [
                 {
-                    "Gapps": "https://github.com/Noah113-Allen/OTA/releases/tag/6.0",
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/camellia/droidx-1.7-20231120-1056-OFFICIAL-camellia-Gapps.zip/download",
                     "Vanilla": ""
                 }
             ],
