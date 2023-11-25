@@ -387,6 +387,29 @@
             "gitProfile": "https://github.com/Mrick343",
             "profile_pic": "https://avatars.githubusercontent.com/u/85066116?v=4",
             "position": "maintainer"
+        },
+        {
+            "codename": "RMX2170",
+            "vendor": "Realme",
+            "model": "7 Pro",
+            "maintainer_name": "Balay Bera",
+            "co_maintainer_name": "",
+            "BuildingTime": "20231123",
+            "last_updated": "23th November 2023",
+            "version": "1.6",
+            "active": true,
+            "device_cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/RMX2170.md",
+            "Links": [
+                {
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/RMX2170/droidx-1.6-20231123-1923-OFFICIAL-RMX2170-Gapps.zip/download",
+                    "Vanilla": ""
+                }
+            ],
+            "status": "Official",
+            "device_pic": "https://i.imgur.com/jRl9ekk.jpg",
+            "gitProfile": "https://github.com/BalayBera",
+            "profile_pic": "https://avatars.githubusercontent.com/u/81761153?v=4",
+            "position": "maintainer"
         }
     ]
 }
