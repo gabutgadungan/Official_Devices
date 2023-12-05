@@ -3,9 +3,9 @@
 Flash ROM AOSP A11/A12/A13 Based MIUI 12.5 FW (R-OSS) (Non-Dynamic) - Begonia.
 
 =================================
-hOW Flash:
+hOW To Flash:
 
-• Flash latest MIUI 12.5.X fastboot ROM (rekomendasi pakai versi global MI).
+• Flash latest MIUI 12.5.X fastboot ROM 
 • Flash twrp based MIUI 12.5.X FW 
 • Clean flash (wipe system, vendor, data, cache & dalvik).
 • Flash ROM A11/A12/A13 based MIUI 12.5.X FW.
