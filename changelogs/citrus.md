@@ -1,5 +1,8 @@
 <img src="https://raw.githubusercontent.com/DroidX-UI-Devices/Official_Devices/13/banners/changelogs.png" />
 
+# v1.7 EOL [NEW]
+- Based on November Security Patch
+
 # v.1.6 ArcLight
 
 - initial Release.
