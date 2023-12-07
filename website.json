@@ -144,14 +144,14 @@
             "model": "Redmi Note 5 Pro",
             "maintainer_name": "Arijit Saha",
             "co_maintainer_name": "",
-            "BuildingTime": "20230919",
-            "last_updated": "19th September 2023",
-            "version": "1.5.3",
+            "BuildingTime": "20231113",
+            "last_updated": "13th November 2023",
+            "version": "1.6",
             "active": true,
             "device_cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/whyred.md",
             "Links": [
                 {
-                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/whyred/droidx-1.5.3-20230919-OFFICIAL-whyred-Gapps.zip",
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/whyred/droidx-1.6-20231112-0543-OFFICIAL-whyred-Gapps.zip/download",
                     "Vanilla": ""
                 }
             ],
@@ -259,14 +259,14 @@
             "model": "Redmi Note 10 5G",
             "maintainer_name": "Noah",
             "co_maintainer_name": "",
-            "BuildingTime": "20231108",
-            "last_updated": "8th November 2023",
-            "version": "1.6",
+            "BuildingTime": "20231120",
+            "last_updated": "20th November 2023",
+            "version": "1.7",
             "active": true,
             "device_cglg": "",
             "Links": [
                 {
-                    "Gapps": "https://github.com/Noah113-Allen/OTA/releases/tag/6.0",
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/camellia/droidx-1.7-20231120-1056-OFFICIAL-camellia-Gapps.zip/download",
                     "Vanilla": ""
                 }
             ],
@@ -386,6 +386,29 @@
             "device_pic": "https://camo.githubusercontent.com/5fa0be13b9e4cc1a9aa600243ea18cb32264164ab4f389ca095ada31fe9063e2/68747470733a2f2f692e696d6775722e636f6d2f545844436746732e706e67",
             "gitProfile": "https://github.com/Mrick343",
             "profile_pic": "https://avatars.githubusercontent.com/u/85066116?v=4",
+            "position": "maintainer"
+        },
+        {
+            "codename": "RMX2170",
+            "vendor": "Realme",
+            "model": "7 Pro",
+            "maintainer_name": "Balay Bera",
+            "co_maintainer_name": "",
+            "BuildingTime": "20231123",
+            "last_updated": "23th November 2023",
+            "version": "1.6",
+            "active": true,
+            "device_cglg": "https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/RMX2170.md",
+            "Links": [
+                {
+                    "Gapps": "https://sourceforge.net/projects/droidxui-releases/files/RMX2170/droidx-1.6-20231123-1923-OFFICIAL-RMX2170-Gapps.zip/download",
+                    "Vanilla": ""
+                }
+            ],
+            "status": "Official",
+            "device_pic": "https://i.imgur.com/jRl9ekk.jpg",
+            "gitProfile": "https://github.com/BalayBera",
+            "profile_pic": "https://avatars.githubusercontent.com/u/81761153?v=4",
             "position": "maintainer"
         }
     ]
