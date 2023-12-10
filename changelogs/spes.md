@@ -1,5 +1,10 @@
 <img src="https://raw.githubusercontent.com/DroidX-UI-Devices/Official_Devices/13/banners/changelogs.png" />
 
+# v1.7 LongTermSupport
+- Updated Cutout Config
+- Updated Kernel Version To 4.19.301
+- Many more underhood changes
+
 # v1.6 Arclight
 - Shifted to Murali Kernel
 - Updated DT2W node & Sepolicy
